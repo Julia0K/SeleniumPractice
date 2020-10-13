@@ -8,7 +8,7 @@
     <artifactId>SeleniumPractice</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>selenuim</name>
+    <name>selenium</name>
 
     <dependencies>
 
