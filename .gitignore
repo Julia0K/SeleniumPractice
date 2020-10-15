@@ -88,3 +88,8 @@ nb-configuration.xml
 ## Logs
 ##############################
 *.log
+
+##############################
+## Properties
+##############################
+src/main/resources/*.properties

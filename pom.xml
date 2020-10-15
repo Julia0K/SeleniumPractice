@@ -8,8 +8,11 @@
     <artifactId>SeleniumPractice</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <dependencies>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 
+    <dependencies>
         <dependency>
             <groupId>com.apple</groupId>
             <artifactId>AppleJavaExtensions</artifactId>
@@ -28,8 +31,8 @@
             <artifactId>selenium-java</artifactId>
             <version>3.141.59</version>
         </dependency>
-
     </dependencies>
+
     <build>
         <plugins>
             <plugin>
